@@ -9,6 +9,7 @@ import java.io.Serializable
 data class Recipes(
     @PrimaryKey(autoGenerate = true)
     val id:Int,
+
     @ColumnInfo(name = "dishName")
     var dishName :String
 ) : Serializable
