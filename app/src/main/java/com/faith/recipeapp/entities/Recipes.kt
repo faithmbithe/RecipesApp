@@ -8,9 +8,9 @@ import java.io.Serializable
 @Entity(tableName = "Recipes")
 data class Recipes(
     @PrimaryKey(autoGenerate = true)
-    val id:Int,
+    val id: Int,
 
     @ColumnInfo(name = "dishName")
-    var dishName :String
+    var dishName: String
 ) : Serializable
 

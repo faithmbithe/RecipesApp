@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "805974841322",
+    "project_id": "recipeapp-dedc2",
+    "storage_bucket": "recipeapp-dedc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805974841322:android:1d44556384551b7a9f8493",
+        "android_client_info": {
+          "package_name": "com.codingwithme.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805974841322-mam5lo0ossn063dr4ao7g654d9k9hc0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9DNieAxxyduhucXoATntXPaRwI4TRuZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805974841322-mam5lo0ossn063dr4ao7g654d9k9hc0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805974841322:android:c3421b2890de4f749f8493",
+        "android_client_info": {
+          "package_name": "com.faith.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805974841322-mam5lo0ossn063dr4ao7g654d9k9hc0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9DNieAxxyduhucXoATntXPaRwI4TRuZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805974841322-mam5lo0ossn063dr4ao7g654d9k9hc0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
